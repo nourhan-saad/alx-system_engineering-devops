@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "obas=16: $DECIMAL" | bc
+echo "obas=16; $DECIMAL" | bc
